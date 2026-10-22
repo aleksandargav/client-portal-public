@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Noindex: /
+Nofollow: /
+
+User-agent: *
+Crawl-delay: 10

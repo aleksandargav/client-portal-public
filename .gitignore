@@ -1,0 +1,12 @@
+.env
+vendor/
+node_modules/
+.idea/
+uploads/*
+!uploads/.gitkeep
+logs/*
+!logs/.gitkeep
+*.sqlite
+*.db
+*.log
+php_errorlog
