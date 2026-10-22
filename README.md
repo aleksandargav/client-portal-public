@@ -38,7 +38,7 @@ Requirements: PHP with PDO MySQL and Argon2id support, MySQL, and Git.
 1. Clone the repository and enter its directory:
 
    ```sh
-   git clone <repository-url> client-portal-public
+   git clone https://github.com/aleksandargav/client-portal-public.git client-portal-public
    cd client-portal-public
    ```
 
